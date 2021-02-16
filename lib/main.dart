@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.teal,
       ),
-      home: MyHomePage(title: '천하제일 "내 PC책상 대회"'),
+      home: MyHomePage(title: '천하제일 "나의 PC책상 대회"'),
 
 
     );
