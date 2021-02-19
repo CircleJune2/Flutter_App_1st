@@ -132,7 +132,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 width: 350,
                 child: Image.asset('images/dog_3.png')),
 
-
           ],
         ),
       ),
