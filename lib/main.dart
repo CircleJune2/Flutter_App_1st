@@ -127,10 +127,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 height: 350,
                 width: 350,
                 child: Image.asset('images/dog_2.png')),
-            SizedBox(
-                height: 350,
-                width: 350,
-                child: Image.asset('images/dog_3.png')),
 
           ],
         ),
