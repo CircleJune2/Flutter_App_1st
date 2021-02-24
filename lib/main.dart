@@ -115,6 +115,10 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headline4,
             ),
             Text(
+              '상금 : 300,000원',
+              style: Theme.of(context).textTheme.headline4,
+            ),
+            Text(
               '투표 수 : '
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
@@ -123,10 +127,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 height: 350,
                 width: 350,
                 child: Image.asset('images/dog_1.png')),
-            SizedBox(
-                height: 350,
-                width: 350,
-                child: Image.asset('images/dog_2.png')),
 
           ],
         ),
