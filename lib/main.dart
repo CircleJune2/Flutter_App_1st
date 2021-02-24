@@ -115,7 +115,7 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headline4,
             ),
             Text(
-              '상금 : 300,000원',
+              '펀딩 : 300,000원',
               style: Theme.of(context).textTheme.headline4,
             ),
             Text(
